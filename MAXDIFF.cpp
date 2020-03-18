@@ -1,4 +1,7 @@
 // problem link: https://www.codechef.com/submit/MAXDIFF
+// Given 'k' and no. of elements 'n', divide into 2 groups such that difference between 2 groups is maximized
+// analysis: If I have to give 'k' elements to 'k', what is max possible diff; using this result, add on:
+// If I have 2 choices: to give 'k' elements or (n - k) elements, what is max possiblle diff?
 
 #include <iostream>
 #include <bits/stdc++.h>
