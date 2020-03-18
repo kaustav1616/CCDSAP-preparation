@@ -1,4 +1,6 @@
 // problem link: https://www.codechef.com/submit/CIELRCPT
+// proof: 1) Formula approach; 2) Greedy approach (reduces to fomrula approach)
+// specific case of coin change problem where every multiple of every denomination <= req change is present in set of denominations
 
 #include <iostream>
 #include <bits/stdc++.h>
