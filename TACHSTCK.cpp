@@ -1,4 +1,5 @@
 // problem link: https://www.codechef.com/problems/TACHSTCK
+// proof by exchange argument
 
 #include <iostream>
 #include <bits/stdc++.h>
