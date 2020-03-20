@@ -1,0 +1,1 @@
+This repo contains my solutions to the problems I've practiced for CCDSAP foundation and advanced level examinations from the list of questions in: https://www.codechef.com/certification/data-structures-and-algorithms/prepare. You can find the solutions along with the problem links.
