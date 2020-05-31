@@ -1,4 +1,4 @@
-// https://www.spoj.com/submit/HIST2/id=26073498
+// problem link: https://www.spoj.com/problems/HIST2/
 
 #include <iostream>
 #include <bits/stdc++.h>
@@ -61,7 +61,7 @@ int main()
 }
 
 /* calc_max_perimeter[used_mask, last_index] = 
- * {max perimeter with 'last index' being index of last placed histogram and used_mask denoting indices of used histograms,
+ * {max perimeter with 'last index' being index of histogram to be placed last and used_mask denoting indices of used histograms,
  * count of number of times this particular perimeter has occurred}
  */
 pair<int, int> calc_max_perimeter(vector<int> &input, int used_mask, int last_index, vector<vector<pair<int, int>>> &memo)
