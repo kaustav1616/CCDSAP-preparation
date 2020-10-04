@@ -1,4 +1,4 @@
-// problem link: https://www.codechef.com/submit/KNPSK
+// problem link: https://www.codechef.com/problems/KNPSK
 
 #include <iostream>
 #include <bits/stdc++.h>
